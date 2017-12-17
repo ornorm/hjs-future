@@ -1,0 +1,50 @@
+{
+  "name": "hjs-future",
+  "version": "1.0.1",
+  "description": "Future classes of Hubrijs framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-future.git"
+  },
+  "keywords": [
+    "Executor",
+    "ExecutorService",
+    "SerialExecutor",
+    "BlockingExecutor",
+    "ParallelExecutor",
+    "Executors",
+    "Callable",
+    "RunnableAdapter",
+    "Future",
+    "RunnableFuture",
+    "BlockingQueue",
+    "LinkedBlockingQueueIterator",
+    "LinkedBlockingQueue",
+    "FutureTask",
+    "QueueingFuture",
+    "CompletionService",
+    "ExecutorCompletionService",
+    "AbstractExecutorService",
+    "AsyncRunnable",
+    "AsyncTaskListener",
+    "AsyncTask",
+    "QueuedWork"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-future/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-future#readme",
+  "dependencies": {
+    "hjs-collection": "^1.0.0",
+    "hjs-core": "^1.0.0"
+  }
+}
