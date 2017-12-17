@@ -1,6 +1,6 @@
 {
   "name": "hjs-future",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Future classes of Hubrijs framework",
   "main": "index.js",
   "directories": {
@@ -45,6 +45,7 @@
   "homepage": "https://github.com/ornorm/hjs-future#readme",
   "dependencies": {
     "hjs-collection": "^1.0.0",
-    "hjs-core": "^1.0.0"
+    "hjs-core": "^1.0.0",
+    "hjs-message": "^1.0.5"
   }
 }
