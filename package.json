@@ -1,6 +1,6 @@
 {
   "name": "hjs-future",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Future classes of Hubrijs framework",
   "main": "index.js",
   "directories": {
